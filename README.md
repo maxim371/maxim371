@@ -1,6 +1,4 @@
-### Here is What I'm Working on! 👋
-
-Here are some ideas to get you started:
+### Hi, I'm Max! I'm a Data Scientist who is passionate about extracting insights from data, developing data models, and building community 👋
 
 - 🔭 I’m currently working on  Stock Trading webapp
 - 🌱 I’m currently learning TimeScaleDB
