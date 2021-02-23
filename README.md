@@ -1,7 +1,5 @@
 ### Here is What I'm Working on! 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  Stock Trading webapp
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: maxwell-kwarteng@lambdastudents.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dropped out of Grad School to study at Lambda School
--->
+
