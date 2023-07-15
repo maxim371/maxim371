@@ -7,5 +7,5 @@
 - 💬 Ask me about Data Science
 - 📫 How to reach me: maxwell-kwarteng@lambdastudents.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Dropped out of Grad School to study at Lambda School
+- ⚡ Fun fact: Currently doing crypto audits
 
